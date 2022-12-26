@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Seunghoon0326's GitHub stats](https://github-readme-stats.vercel.app/apiSeunghoon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Seunghoon's GitHub stats](https://github-readme-stats.vercel.app/apiSeunghoon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
