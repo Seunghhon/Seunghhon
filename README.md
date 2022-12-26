@@ -1,5 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=wellcome👋&fontAlignY=40&fontSize=70)-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seunghoon's%20GitHub%20Profile&descAlignY=55&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Seunghoon's%20GitHub%20Profile&descAlignY=55&descAlign=62)
 <!--
 **Seunghoon0326/Seunghoon0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
