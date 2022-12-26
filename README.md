@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <Strong>📧Email📧</Strong><br>Seunghoonjang700@gmail.com<br>
 </p>
 
-<div align=center>
+<div>
 ![Seunghoon's github stats](https://github-readme-stats.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=radical)
 </div>
   
