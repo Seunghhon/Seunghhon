@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align=center>
-![Seunghoon's github stats](https://github-readme-stats.vercel.app/api?username=Seunghoon0326&show_icons=true)</div>
+![Seunghoon's github stats](https://github-readme-stats.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=radical)
+</div>
   
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
