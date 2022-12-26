@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wellcome 👋&fontSize=50)
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wellcome 👋&fontSize=50
 <!--
 **Seunghoon0326/Seunghoon0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
