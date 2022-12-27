@@ -5,7 +5,7 @@
 <!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeunghoon0326&count_bg=%23747272&title_bg=%232F2D2D&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)-->
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpla&count_bg=%23888888&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpla&count_bg=%23888888&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 
 <p align="center">
@@ -32,7 +32,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=radical" />
 </a>
 
-</div>
+
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
