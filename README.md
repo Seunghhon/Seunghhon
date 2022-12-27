@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 </div>-->
 
-<h3>
+<h3 align="center">
   📈 &nbsp;My GitHub profile
 </h3>
   
