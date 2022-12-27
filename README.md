@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<Strong>📧Email📧</Strong><br>Seunghoonjang700@gmail.com<br>
+<Strong>📧Email📧</Strong><br>seunghoonjang700@gmail.com<br>
 </p>
 
 <!--<h3 align="center">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghoon0326&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&theme=tokyonight&show_icons=true" width="60%" />
 </a>
 
 
