@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&theme=tokyonight&show_icons=true" width="48%" />
 </a>
-<h3 align="center">
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeunghoon0326&count_bg=%2328A4D7&title_bg=%2328A4D7&icon=&icon_color=%23E7E7E7&title=Seunghoon0326&edge_flat=true)</h3>
+<h2 align="center">
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeunghoon0326&count_bg=%2328A4D7&title_bg=%2328A4D7&icon=&icon_color=%23E7E7E7&title=Seunghoon0326&edge_flat=true)</h2>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
