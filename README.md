@@ -19,13 +19,24 @@ Here are some ideas to get you started:
 <Strong>📧Email📧</Strong><br>Seunghoonjang700@gmail.com<br>
 </p>
 
-<h3 align="center">
+<!--<h3 align="center">
 📈 &nbsp;My GitHub profile</h3>
 <div align="center">
 <a href="https://github.com/Seunghoon0326">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=radical" />
 </a>
-</div>
+</div>-->
+
+<h3>
+  📈 &nbsp;My GitHub profile
+</h3>
+  
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghoon0326&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
