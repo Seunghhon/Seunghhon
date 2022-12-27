@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeunghoon0326&count_bg=%2328A4D7&title_bg=%2328A4D7&icon=&icon_color=%23E7E7E7&title=Seunghoon0326&edge_flat=true)
 
+<img src="https://img.shields.io/badge/discord-#5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
 <p align="center">
 <Strong>📧Email📧</Strong><br>seunghoonjang700@gmail.com<br>
 </p>
