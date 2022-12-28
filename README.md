@@ -11,7 +11,7 @@
 <p align="center">
 <Strong>Contact</Strong><br>
   <br>
-  <a href="seunghoonjang700@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=seunghoonjang700@gmail.com&logoColor=white"/>
   <img src="https://img.shields.io/badge/discord-5865f2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
