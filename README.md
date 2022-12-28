@@ -24,7 +24,7 @@
 </div>-->
 
 <h3>
-  📈 &nbsp;status
+  📈 &nbsp;stats
 </h3>
   
 <a href="s">
