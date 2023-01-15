@@ -28,12 +28,12 @@
 </h3>
   
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghoon0326&layout=compact&theme=radical">
+  <img src="https://github-readme-stats-forme.vercel.app/api/top-langs/?username=Seunghoon0326&layout=compact&theme=radical">
 </a>
 <br>
 <br>
 <a href="s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-forme.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=radical" />
 </a>
 
 
