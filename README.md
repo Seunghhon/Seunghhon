@@ -28,7 +28,7 @@
 </h3>
   
 <a href="s">
-  <img src="https://github-readme-stats-forme-mxv2j3xzq-seunghoon0326.vercel.app/api/top-langs/?username=Seunghoon0326&layout=compact&theme=radical">
+  <img src="https://github-readme-stats-forme.vercel.app/api/top-langs/?username=Seunghoon0326&layout=compact&theme=radical">
 </a>
 <br>
 <br>
