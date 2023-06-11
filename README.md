@@ -26,8 +26,9 @@
 </div>-->
 
 <h3>
-  📈 &nbsp;stats
+  Github Stats
 </h3>
+<hr>
   
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghoon0326&theme=tokyonight&hide_border=true&layout=compact">
