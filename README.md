@@ -16,12 +16,12 @@
 ## Github Stats
   
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghoon0326&theme=tokyonight&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghhon&theme=tokyonight&hide_border=true&layout=compact">
 </a>
 <br>
 <br>
 <a href="s">
-  <img height="180em" src="https://github-readme-stats-phi-six-94.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-phi-six-94.vercel.app/api?username=Seunghhon&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
 </a>
 
 
