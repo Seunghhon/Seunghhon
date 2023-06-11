@@ -7,10 +7,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpla&count_bg=%23888888&title_bg=%231F1F1F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 <br><br>
-
-<p align="center">
-<Strong>👤Contact👤</Strong><br>
-  <br>
+# Contact
   <a href="mailto:seunghoonjang700@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
