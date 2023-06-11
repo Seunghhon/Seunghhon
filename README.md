@@ -1,8 +1,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome👋&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Seunghoon's%20GitHub%20Profile&descAlignY=55&descAlign=62)-->
-## Hi there!
+## Hi There!👋
 
 <!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeunghoon0326&count_bg=%23747272&title_bg=%232F2D2D&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)-->
-  
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevpla&count_bg=%23888888&title_bg=%231F1F1F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 <br><br>
 
