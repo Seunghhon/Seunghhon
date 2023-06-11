@@ -17,18 +17,8 @@
   <img src="https://img.shields.io/badge/discord-5865f2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
-<!--<h3 align="center">
-📈 &nbsp;My GitHub profile</h3>
-<div align="center">
-<a href="https://github.com/Seunghoon0326">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seunghoon0326&show_icons=true&theme=radical" />
-</a>
-</div>-->
 
-<h3>
-  Github Stats
-</h3>
-<hr>
+## Github Stats
   
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghoon0326&theme=tokyonight&hide_border=true&layout=compact">
