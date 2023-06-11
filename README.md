@@ -30,7 +30,7 @@
 </h3>
   
 <a href="s">
-  <img src="https://github-readme-stats-phi-six-94.vercel.app/api/top-langs/?username=Seunghoon0326&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghoon0326&theme=tokyonight&hide_border=true&layout=compact">
 </a>
 <br>
 <br>
