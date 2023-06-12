@@ -16,7 +16,7 @@
 ## Github Stats
   
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghhon&theme=tokyonight&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats-1mx98d6da-seunghoon0326.vercel.app/api/top-langs/?username=Seunghhon&theme=tokyonight&hide_border=true&layout=compact">
 </a>
 <br>
 <br>
