@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/discord-5865f2?style=flat-square&logo=discord&logoColor=white"/>-->
 
 
-
 ## Github Stats
   
 <a href="s">
@@ -25,9 +24,7 @@
 </a>
 
 
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--
 **Seunghoon0326/Seunghoon0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
